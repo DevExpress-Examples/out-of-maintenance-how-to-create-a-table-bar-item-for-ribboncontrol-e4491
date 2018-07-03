@@ -93,9 +93,5 @@ namespace testSample
         protected override int DefaultPageColumns { get { return 10; } }
         protected override int DefaultPageRows { get { return 10; } }
         protected override int InnerMargin { get { return 3; } }
-        protected override Bitmap LoadItemBitmap()
-        {
-            return new Bitmap(Properties.Resources.Square, new Size(12, 12));
-        }
     }
 }
