@@ -99,8 +99,5 @@ Namespace testSample
                 Return 3
             End Get
         End Property
-        Protected Overrides Function LoadItemBitmap() As Bitmap
-            Return New Bitmap(My.Resources.Square, New Size(12, 12))
-        End Function
     End Class
 End Namespace
