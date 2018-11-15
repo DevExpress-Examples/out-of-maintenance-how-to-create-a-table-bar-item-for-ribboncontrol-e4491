@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/testSample/Form1.cs) (VB: [Form1.vb](./VB/testSample/Form1.vb))
+* [Program.cs](./CS/testSample/Program.cs) (VB: [Program.vb](./VB/testSample/Program.vb))
+* [TableBarItem.cs](./CS/testSample/TableBarItem/CustomBarItem/TableBarItem.cs) (VB: [TableBarItem.vb](./VB/testSample/TableBarItem/CustomBarItem/TableBarItem.vb))
+* [TableEventArgs.cs](./CS/testSample/TableBarItem/CustomBarItem/TableEventArgs.cs) (VB: [TableEventArgs.vb](./VB/testSample/TableBarItem/CustomBarItem/TableEventArgs.vb))
+* [TableSizePopupControlContainer.cs](./CS/testSample/TableBarItem/CustomBarItem/TableSizePopupControlContainer.cs) (VB: [TableSizePopupControlContainer.vb](./VB/testSample/TableBarItem/CustomBarItem/TableSizePopupControlContainer.vb))
+* [MyBarAndDockingController.cs](./CS/testSample/TableBarItem/CustomController/MyBarAndDockingController.cs) (VB: [MyBarAndDockingController.vb](./VB/testSample/TableBarItem/CustomController/MyBarAndDockingController.vb))
+* [MyUserControl.cs](./CS/testSample/UserControl/MyUserControl.cs) (VB: [MyUserControl.vb](./VB/testSample/UserControl/MyUserControl.vb))
+<!-- default file list end -->
 # How to create a Table bar item for RibbonControl
 
 
